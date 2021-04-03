@@ -1,1 +1,2 @@
-# Number-Plate-recognition
+# ANPR 
+Automatic Number Plate Detection with python.  
